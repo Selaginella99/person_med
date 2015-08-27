@@ -9,3 +9,4 @@ based on massively parallel DNA sequencing, Nature Biotechnology, 2013.
 8. Next-generation sequencing [in the clinic](http://www.nature.com/nbt/journal/v31/n11/full/nbt.2743.html), Nature Biotechnology, 2013.
 9. [Individualized Medicine](http://www.sciencedirect.com/science/article/pii/S0092867414002049) from Prewomb to Tomb, Cell, 2014.
 10. Designing Transformative Clinical Trials in [the Cancer Genome Era](http://jco.ascopubs.org/content/31/15/1834.full), ACO, 2013.
+11. [Guidelines](http://www.nature.com/nature/journal/v508/n7497/full/nature13127.html) for investigating causality of sequence variants in human disease, Nature, 2014.
