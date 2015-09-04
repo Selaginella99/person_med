@@ -16,3 +16,4 @@ based on massively parallel DNA sequencing, Nature Biotechnology, 2013.
 [Template](http://www.archivesofpathology.org/doi/10.5858/arpa.2014-0588-CP) for Reporting Results of Biomarker Testing of Specimens From Patients With Tumors of the Central Nervous System. 
 15. Paving the Way for Personalized Medicine, [FDA](http://www.fda.gov/downloads/scienceresearch/specialtopics/personalizedmedicine/ucm372421.pdf), 2013.
 16. Translational research in oncology—10 years of progress and future prospects - [Human tumour tissue-based experimental therapeutics for cancer](http://www.nature.com/nrclinonc/journal/v11/n11/full/nrclinonc.2014.158.html), NRCO, 2014.
+17. Cancer Systems Biology: [a peek](http://www.nature.com/nrclinonc/journal/v11/n3/full/nrclinonc.2014.6.html) into the future of patient care? NRCO, 2014.
