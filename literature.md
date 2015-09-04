@@ -14,6 +14,5 @@ based on massively parallel DNA sequencing, Nature Biotechnology, 2013.
 13. Next-generation sequencing in the clinic: [Promises and challenges](http://www.sciencedirect.com/science/article/pii/S0304383512006726), *Cell*, 2013
 14. American Society of Clinical Oncology [Policy Statement Update](http://jco.ascopubs.org/content/early/2015/08/31/JCO.2015.63.0996): Genetic and Genomic Testing for Cancer Susceptibility, JCO, 2015. 
 [Template](http://www.archivesofpathology.org/doi/10.5858/arpa.2014-0588-CP) for Reporting Results of Biomarker Testing of Specimens From Patients With Tumors of the Central Nervous System. 
-15. Paving the Way for Personalized Medicine, [FDA](http://www.fda.gov/downloads/scienceresearch/specialtopics/personalizedmedicine/ucm372421.pdf), 2013.
-16. Translational research in oncology—10 years of progress and future prospects - [Human tumour tissue-based experimental therapeutics for cancer](http://www.nature.com/nrclinonc/journal/v11/n11/full/nrclinonc.2014.158.html), NRCO, 2014.
-17. Cancer Systems Biology: [a peek](http://www.nature.com/nrclinonc/journal/v11/n3/full/nrclinonc.2014.6.html) into the future of patient care? NRCO, 2014.
+15. Translational research in oncology - 10 years of progress and future prospects - [Human tumour tissue-based experimental therapeutics for cancer](http://www.nature.com/nrclinonc/journal/v11/n11/full/nrclinonc.2014.158.html), NRCO, 2014.
+16. Cancer Systems Biology: [a peek](http://www.nature.com/nrclinonc/journal/v11/n3/full/nrclinonc.2014.6.html) into the future of patient care? NRCO, 2014.
