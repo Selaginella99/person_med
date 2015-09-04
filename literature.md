@@ -12,3 +12,5 @@ based on massively parallel DNA sequencing, Nature Biotechnology, 2013.
 11. [Guidelines](http://www.nature.com/nature/journal/v508/n7497/full/nature13127.html) for investigating causality of sequence variants in human disease, Nature, 2014.
 12. Next-generation sequencing [in the clinic](http://www.nature.com/nrg/journal/v13/n11/full/nrg3357.html): are we ready?, Nature, 2012.
 13. Next-generation sequencing in the clinic: [Promises and challenges](http://www.sciencedirect.com/science/article/pii/S0304383512006726), *Cell*, 2013
+14. American Society of Clinical Oncology [Policy Statement Update](http://jco.ascopubs.org/content/early/2015/08/31/JCO.2015.63.0996): Genetic and Genomic Testing for Cancer Susceptibility, JCO, 2015. 
+[Template](http://www.archivesofpathology.org/doi/10.5858/arpa.2014-0588-CP) for Reporting Results of Biomarker Testing of Specimens From Patients With Tumors of the Central Nervous System. 
