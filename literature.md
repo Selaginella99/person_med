@@ -18,3 +18,4 @@ based on massively parallel DNA sequencing, Nature Biotechnology, 2013.
 16. Translational research in oncology - 10 years of progress and future prospects - [Human tumour tissue-based experimental therapeutics for cancer](http://www.nature.com/nrclinonc/journal/v11/n11/full/nrclinonc.2014.158.html), NRCO, 2014
 17. Cancer Systems Biology: [a peek](http://www.nature.com/nrclinonc/journal/v11/n3/full/nrclinonc.2014.6.html) into the future of patient care? NRCO, 2014
 18. [Pragmatic issues](http://www.nature.com/nrclinonc/journal/v12/n4/full/nrclinonc.2014.202.html) in biomarker evaluation for targeted therapies in cancer (major challenges), NRCO, 2015
+19. Cancer Genome Landscapes - [Cancer Genomics](http://www.sciencemag.org/site/special/cancergenomics/index.xhtml), Science, 2013.
