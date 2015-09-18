@@ -19,3 +19,4 @@ based on massively parallel DNA sequencing, Nature Biotechnology, 2013.
 17. Cancer Systems Biology: [a peek](http://www.nature.com/nrclinonc/journal/v11/n3/full/nrclinonc.2014.6.html) into the future of patient care? NRCO, 2014
 18. [Pragmatic issues](http://www.nature.com/nrclinonc/journal/v12/n4/full/nrclinonc.2014.202.html) in biomarker evaluation for targeted therapies in cancer (major challenges), NRCO, 2015
 19. Cancer Genome Landscapes - [Cancer Genomics](http://www.sciencemag.org/site/special/cancergenomics/index.xhtml), Science, 2013.
+20. [Principles and methods](http://www.nature.com/nrc/journal/v14/n5/full/nrc3721.html) of integrative genomic analyses in cancer, Nature Review Cancer, 2014. Methods of integrating data to uncover [genotype–phenotype interactions](http://www.nature.com/nrg/journal/v16/n2/full/nrg3868.html), NRG, 2015
