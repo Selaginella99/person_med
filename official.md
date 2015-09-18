@@ -1,5 +1,5 @@
 1. Definition of Personalized medicine on [wiki](https://en.wikipedia.org/wiki/Personalized_medicine)
-2. NIH Precision Medicine [Initiative](http://www.nih.gov/precisionmedicine)
+2. NIH Precision Medicine [Initiative](http://www.nih.gov/precisionmedicine), [videocast](http://videocast.nih.gov/)
 3. NCI and the Precision Medicine Initiative [(PMI)](http://www.cancer.gov/research/key-initiatives/precision-medicine), [Targeted Cancer Therapies](http://www.cancer.gov/about-cancer/treatment/types/targeted-therapies/targeted-therapies-fact-sheet), [NCI-MATCH](http://www.cancer.gov/about-cancer/treatment/clinical-trials/nci-supported/nci-match), [PMI news](http://www.cancer.gov/news-events/cancer-currents-blog/2015/precision-medicine-initiative-2016)
 4. The Personalized Medicine Coalition [(PMC)](http://personalizedmedicinecoalition.org/Education/Overview)
 5. Personalized Medicine - Food and Drug Administration, [(FDA)](http://www.fda.gov/scienceresearch/specialtopics/personalizedmedicine/default.htm), [Paving the Way](http://www.fda.gov/downloads/scienceresearch/specialtopics/personalizedmedicine/ucm372421.pdf) for Personalized Medicine 2013
