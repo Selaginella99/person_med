@@ -10,7 +10,7 @@ based on massively parallel DNA sequencing, Nature Biotechnology, 2013.
 9. [Individualized Medicine](http://www.sciencedirect.com/science/article/pii/S0092867414002049) from Prewomb to Tomb, *Cell*, 2014.
 10. Designing Transformative Clinical Trials in [the Cancer Genome Era](http://jco.ascopubs.org/content/31/15/1834.full), ACO, 2013.
 11. [Guidelines](http://www.nature.com/nature/journal/v508/n7497/full/nature13127.html) for investigating causality of sequence variants in human disease, Nature, 2014.
-12. Next-generation sequencing [in the clinic](http://www.nature.com/nrg/journal/v13/n11/full/nrg3357.html): are we ready?, Nature, 2012.
+12. Next-generation sequencing [in the clinic](http://www.nature.com/nrg/journal/v13/n11/full/nrg3357.html): are we ready? Nature, 2012.
 13. Next-generation sequencing in the clinic: [Promises and challenges](http://www.sciencedirect.com/science/article/pii/S0304383512006726), *Cell*, 2013
 14. American Society of Clinical Oncology [Policy Statement Update](http://jco.ascopubs.org/content/early/2015/08/31/JCO.2015.63.0996): Genetic and Genomic Testing for Cancer Susceptibility, JCO, 2015. 
 [Template](http://www.archivesofpathology.org/doi/10.5858/arpa.2014-0588-CP) for Reporting Results of Biomarker Testing of Specimens From Patients With Tumors of the Central Nervous System. 
@@ -25,3 +25,4 @@ based on massively parallel DNA sequencing, Nature Biotechnology, 2013.
 23. Health [ROI](http://www.nature.com/nbt/journal/v33/n8/full/nbt.3276.html) as a measure of misalignment of biomedical needs and resources, Nature Biotechnology, 2015. 
 24. [Protective alleles and modifier variants](http://www.nature.com/nrg/journal/vaop/ncurrent/full/nrg4017.html) in human health and disease, NRG, 2015. The support of human genetic evidence for [approved drug indications](http://www.nature.com/ng/journal/v47/n8/full/ng.3314.html), NG, 2015.
 25. Challenges and prospects for biomarker research: [A current perspective from the developing world](http://www.sciencedirect.com/science/article/pii/S1570963914000028), Next-generation clinical trials: [Novel strategies](http://www.sciencedirect.com/science/article/pii/S157478911400235X) to address the challenge of tumor molecular heterogeneity, 2014.
+26. [Big Data in Biomedicine](http://www.nature.com/nature/outlook/big-data/), Nature **OUTLOOK**, 2015. 
