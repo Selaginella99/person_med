@@ -11,3 +11,4 @@
 11. My Cancer Genome ([MCG](http://www.mycancergenome.org/)), [Overview](http://www.mycancergenome.org/content/molecular-medicine/overview-of-targeted-therapies-for-cancer/) of Targeted Therapies for Cancer
 12. American Society of Clinical Oncology ([ASCO](http://www.asco.org/)), [university library](http://meetinglibrary.asco.org/)
 13. American Chinese Geneticist Association ([ACGA](http://www.360zhyx.com/home-research-index-rid-51013.shtml))
+14. 中国遗传学会遗传咨询分会, The Chinese Board of Genetic Counseling ([CBGC](http://www.cbgc.org.cn/profile/))
