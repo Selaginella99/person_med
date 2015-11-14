@@ -13,3 +13,4 @@
 13. American Chinese Geneticist Association ([ACGA](http://www.360zhyx.com/home-research-index-rid-51013.shtml))
 14. 中国遗传学会遗传咨询分会, [The Chinese Board of Genetic Counseling](http://www.cbgc.org.cn/profile/) ([CBGC](http://www.cbgc.org.cn/ucenter/))
 15. [MatchMaker Exchange](http://www.matchmakerexchange.org/): A Platform for Rare Disease Gene Discovery, [paper published](http://onlinelibrary.wiley.com/doi/10.1002/humu.22858/full), [github link](https://github.com/ga4gh/mme-apis) is under Global Alliance for Genomics and Health Project ([GAGHP](https://github.com/MatchmakerExchange))
+16. AACR Project Genomics, Evidence, Neoplasia, Information, Exchange ([GENIE](http://www.aacr.org/Newsroom/Pages/News-Release-Detail.aspx?ItemID=781#.VkeIGnarSUl))
